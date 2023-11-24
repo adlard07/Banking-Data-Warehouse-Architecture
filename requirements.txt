@@ -1,0 +1,10 @@
+numpy
+pandas 
+typing
+mysql
+dataclasses
+<<<<<<< HEAD
+=======
+logging
+>>>>>>> 0534cdfd9d1375470dd016d158ba566dfd206b57
+-e

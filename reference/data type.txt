@@ -1,0 +1,49 @@
+Bank
+- Customer
+- Account
+- Branch
+- Banker
+- Credit Card
+- Loan
+- Loan Payment
+
+Customer
+- customer_id
+- customer_name
+- account_id
+- dob
+- mobile_no
+
+Account
+- account_id
+- account_bal
+- account_type
+- branch_id
+
+Branch
+- branch_id
+- branch_name
+- branch_addr
+
+Banker
+- banker_id
+- branch_id
+- banker_name
+
+Credit Card
+- card_no
+- customer_id
+- account_id
+- exp_date
+- card_limit
+
+Loan
+- loan_id
+- issued_amount
+- branch_id
+- account_id
+
+Loan Payment
+- loan_payment_id
+- loan_id
+- amount
