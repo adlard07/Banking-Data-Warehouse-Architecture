@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the design and implementation of a relational database for a banking system. The database encompasses several tables to store essential information related to customers, accounts, branches, bankers, credit cards, loans, and loan payments. Additionally, a script has been developed to generate random data for testing and demonstration purposes.
+This project involves the designe and implementation of a robust database architecture for a comprehensive banking system data warehouse from scratch. The project involved meticulous planning and execution to address the unique requirements of managing diverse banking data efficiently and securely within the data architecture domain.
 
 ## Tables
 
