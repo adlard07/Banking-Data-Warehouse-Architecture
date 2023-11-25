@@ -4,6 +4,8 @@
 
 This project involves the designe and implementation of a robust database architecture for a comprehensive banking system data warehouse from scratch. The project involved meticulous planning and execution to address the unique requirements of managing diverse banking data efficiently and securely within the data architecture domain.
 
+This document outlines the architecture design for a banking database. The goal of this project is to create an efficient and scalable solution that can handle
+
 ## Tables
 
 1. **Branch Table**
